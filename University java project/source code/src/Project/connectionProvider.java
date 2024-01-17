@@ -3,8 +3,8 @@ package Project;
 import java.sql.*;
 /**
  *
- * @author Mohamad Moaqaly
- * matriculation number: 1310757
+
+
  */
 public class connectionProvider {
     public static Connection getCon(){
